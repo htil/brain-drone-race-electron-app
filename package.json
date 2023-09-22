@@ -1,0 +1,26 @@
+{
+  "name": "bdr",
+  "productName": "Brain-Drone Racing App",
+  "version": "1.0.0",
+  "description": "Electron app for hosting Brain-Drone Racing events ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo ./node_modules/electron/dist/electron . --no-sandbox"
+  },
+  "keywords": [
+    "brain-computer",
+    "interface",
+    "drones",
+    "racing"
+  ],
+  "author": "Human-Technology Interaction Lab - Chris Crawford",
+  "license": "MIT",
+  "dependencies": {
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  },
+  "devDependencies": {
+    "electron": "^26.2.2"
+  }
+}

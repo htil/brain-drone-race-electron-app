@@ -1,0 +1,318 @@
+    1  code
+    2  ls
+    3  mkdir js_projects
+    4  ls
+    5  git
+    6  ls
+    7  cd js_projects/
+    8  code .
+    9  ls
+   10  git clone https://github.com/htil/basic-nivo-parcel-data-visualization-app.git
+   11  ls
+   12  cd basic-nivo-parcel-data-visualization-app/
+   13  yarn
+   14  sudo apt install cmdtest
+   15  curl -o- -L https://yarnpkg.com/install.sh | bash
+   16  node
+   17  sudo apt install nodejs
+   18  sudo apt install update
+   19  cd
+   20  ls
+   21  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+   22  node
+   23  node
+   24  yarn
+   25  node
+   26  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/master/install.sh | bash
+   27  nvm
+   28  nvm ls
+   29  nvm install 19.8.1
+   30  nvm ls
+   31  node 
+   32  ls
+   33  cd js_projects/
+   34  code .
+   35  yarn
+   36  ls
+   37  rm yarn.lock 
+   38  rm -r node_modules/
+   39  ls
+   40  code .
+   41  ls
+   42  cd basic-nivo-parcel-data-visualization-app/
+   43  ls
+   44  yarn
+   45  yarn start
+   46  ls
+   47  cd ..
+   48  ls
+   49  cd
+   50  ls
+   51  cd ~
+   52  ls
+   53  ls
+   54  ln -s /mnt/c/
+   55  ls
+   56  cd c/
+   57  ls
+   58  cd Users/
+   59  ls
+   60  cd
+   61  ls
+   62  mkdir pwa
+   63  cd pwa/
+   64  ls
+   65  cd
+   66  ls
+   67  ln -s /mnt/c/Users/cscrawford/
+   68  ls
+   69  cd pwa/
+   70  ls
+   71  cp -r ~/cscrawford/Downloads/app-manifest-01--start.zip .
+   72  ls
+   73  unzip app-manifest-01--start.zip 
+   74  sudo apt-install unzip
+   75  sudo apt install unzip
+   76  unzip app-manifest-01--start.zip 
+   77  ls
+   78  rm __MACOSX/
+   79  rm -r  __MACOSX/
+   80  ls
+   81  rm app-manifest-01--start.zip 
+   82  ls
+   83  cd app-manifest-01--start/
+   84  ls
+   85  code .
+   86  ls
+   87  cd pwa/
+   88  ls
+   89  cp ~/cscrawford/Downloads/app-manifest-02--added-properties.zip .
+   90  ls
+   91  unzip app-manifest-02--added-properties.zip 
+   92  ls
+   93  rm app-manifest-02--added-properties.zip 
+   94  ls
+   95  code .
+   96  npm run test
+   97  ls
+   98  node index.js 
+   99  ls
+  100  touch index.html
+  101  touch client.js
+  102  touch client.css
+  103  ls
+  104  cd ../
+  105  ls
+  106  cd
+  107  ls
+  108  mkdir node_apps
+  109  cd node_apps/
+  110  git clone https://github.com/htil/hello-phaser-bci.git
+  111  code .
+  112  ls
+  113  cd
+  114  ls
+  115  explorer.exe .
+  116  ls
+  117  cd pwa/
+  118  cd dgram-test/
+  119  ls
+  120  cat index.
+  121  cat index.js 
+  122  node index.js 
+  123  ls
+  124  node index.js 
+  125  ls
+  126  touch tello.py
+  127  node index.js 
+  128  python tello.py 
+  129  python3 tello.py 
+  130  pip install tellopy
+  131  sudo apt install python3-pip
+  132  sudo apt update && upgrade
+  133  pip install tellopy
+  134  sudo apt install python3-pip
+  135  pip install tellopy
+  136  ls
+  137  touch tello2.py
+  138  python3 tello2.py 
+  139  node index.js 
+  140  ls
+  141  node index.js 
+  142  ls
+  143  cd 
+  144  ls
+  145  cd js_projects/
+  146  ls
+  147  cd ../
+  148  ls
+  149  mkdir electron_apps
+  150  cd electron_apps/
+  151  mkdir bdr
+  152  ls
+  153  cd bdr/
+  154  ls
+  155  echo "# brain-drone-race-electron-app" >> README.md
+  156  git init
+  157  git add README.md 
+  158  git commit "first commit"
+  159  git commit -m "first commit"
+  160  git config --global user.email "chris35469@gmail.com"
+  161  git config --global user.name "Chris"
+  162  git commit -m "first commit"
+  163  git branch -M main
+  164  git remote add origin https://github.com/htil/brain-drone-race-electron-app.git
+  165  git push -u origin main
+  166  ls
+  167  npm init
+  168  ls
+  169  ls
+  170  mkdir dgram-test
+  171  cd dgram-test/
+  172  ls
+  173  npm init
+  174  ls
+  175  npm install dgram
+  176  ls
+  177  cd node_modules/
+  178  ls
+  179  cd
+  180  ls
+  181  cd pwa/
+  182  ls
+  183  cd dgram-test/
+  184  ls
+  185  touch index.js
+  186  node index.js 
+  187  ls
+  188  cd ../
+  189  ls
+  190  cd electron_apps/
+  191  ls
+  192  cd bdr/
+  193  ls
+  194  npm i electron resize-img toastify-js
+  195  npm start
+  196  s
+  197  ls
+  198  rm -rdf node_modules
+  199  npm install --platform=win32
+  200  ls
+  201  npm install
+  202  npm start
+  203  electron .
+  204  ls
+  205  npm i electron resize-img toastify-js
+  206  electron
+  207  electron .
+  208  sudo apt install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev
+  209  ls
+  210  electron .
+  211  npm i electron resize-img toastify-js
+  212  npm start
+  213  electron .
+  214  npm install --save-dev electron
+  215  electron .
+  216  source ~/.bashrc
+  217  electron
+  218  electron
+  219  npm install electron --save-dev
+  220  electron
+  221  ./node_modules/.bin/electron 
+  222  ls
+  223  ./node_modules/.bin/electron .
+  224  sudo ./node_modules/.bin/electron .
+  225  ./node_modules/.bin/electron .
+  226  sudo chown root ./node_modules/electron/dist/chrome-sandbox 
+  227  chmod 4755 ./node_modules/electron/dist/chrome-sandbox 
+  228  sudo chmod 4755 ./node_modules/electron/dist/chrome-sandbox 
+  229  ./node_modules/.bin/electron .
+  230  sudo ./node_modules/.bin/electron .
+  231  sudo sysctl kernel.unprivileged_userns_clone=1
+  232  ld
+  233  ls
+  234  udo apt update # this takes a while the first timesudo apt install nodejs git npm # ~200mb of packagessudo npm install -g yarn # Yarn is so much faster
+  235  sudo apt update # this takes a while the first timesudo apt install nodejs git npm # ~200mb of packagessudo npm install -g yarn # Yarn is so much faster
+  236  yarn
+  237  electon
+  238  ./node_modules/.bin/electron .
+  239  # system libraries needed for electronsudo apt install libnss3-dev libgdk-pixbuf2.0-dev libgtk-3-dev libxss-dev# install vue clisudo yarn global add @vue/cli# create a project.# follow instructions here https://cli.vuejs.org/guide/creating-a-project.html#vue-createvue create --default my_appcd my_appvue add electron-builder# install dependenciesyarn install# That's it!! We have a fully working electorn app. Lets run it:yarn run electron:serve# NOTHING HAPPENS!? Where's the app window?# There's no way for Ubuntu or Windows to display it!
+  240  ls
+  241  rm my_appcd/
+  242  rm -r my_appcd/
+  243  sudo rm -r my_appcd/
+  244  ls
+  245  sudo rm -r node_modules/
+  246  ls
+  247  rm package-lock.json 
+  248  ls
+  249  rm package.json 
+  250  ls
+  251  rm ta
+  252  rm yarn.lock 
+  253  ls
+  254  cd bdr/
+  255  ls
+  256  cat package
+  257  cat package.json 
+  258  electron
+  259  electron .
+  260  ls
+  261  cat index.js 
+  262  ls
+  263  electron
+  264  sudo apt install libgconf-2-4 libatk1.0-0 libatk-bridge2.0-0 libgdk-pixbuf2.0-0 libgtk-3-0 libgbm-dev libnss3-dev libxss-dev
+  265  electron
+  266  yarn run electron:serve
+  267  npm install --save-dev electron
+  268  yarn run electron:serve
+  269  yarn add electron
+  270  ls
+  271  yarn run electron:serve
+  272  ls
+  273  rm -r node_modules
+  274  ls
+  275  yar
+  276  yarn
+  277  ls
+  278  electron
+  279  npm_config_platform=win32 yarn
+  280  yarn start
+  281  export DISPLAY="`sed -n 's/nameserver //p' /etc/resolv.conf`:0"
+  282  yarn start
+  283  sudo chown root: ./node_modules/electron/dist/chrome-sandbox 
+  284  sudo chmod 4755 ./node_modules/electron/dist/chrome-sandbox 
+  285  yarn start
+  286  ./node_modules/electron/dist/electron 
+  287  ./node_modules/electron/dist/electron .
+  288  sudo ./node_modules/electron/dist/electron .
+  289  sudo ./node_modules/electron/dist/electron . --no-sandbox
+  290  ./node_modules/electron/dist/electron . --no-sandbox
+  291  export DISPLAY="grep nameserver /etc/resolv.conf | sed 's/nameserver //':0"
+  292  ./node_modules/electron/dist/electron . --no-sandbox
+  293  sudo apt install xfce4 xfce4-goodies
+  294  code ~/.bashrc 
+  295  source ~/.bashrc 
+  296  sudo apt install x11-appsxcalc
+  297  xfce4-session
+  298  sudo apt install x11-touchscreen-calibrator 
+  299  x11-touchscreen-calibrator 
+  300  xcalc
+  301  ls
+  302  cd electron_apps/
+  303  ls
+  304  cd bdr/
+  305  ls
+  306  ./node_modules/electron/dist/electron . --no-sandbox
+  307  xcalc 
+  308  x11-touchscreen-calibrator 
+  309  electron
+  310  yarn start
+  311  ls
+  312  history
+  313  ls
+  314  mkdir notes
+  315  ls
+  316  cd notes/
+  317  ls
+  318  history > x_server_setup.txt
